@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tictactoe_lapshin</string>
+    <string name="result">Результат</string>
+    <string name="play">Начать</string>
+    <string name="player1_move">Игрок 1</string>
+    <string name="player2_move">Игрок 2</string>
+    <string name="player1_win">Игрок 1 - победил!</string>
+    <string name="player2_win">Игрок 2 - победил!</string>
+</resources>
